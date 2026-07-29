@@ -28,4 +28,4 @@ Based on real patterns seen across startup and SMB AWS accounts.
 Full guide: [How to Reduce Your AWS Monthly Bill](https://cloudsyncpk.com/blog/how-to-reduce-your-aws-monthly-bill)
 
 ---
-Maintained by [CloudSync](https://cloudsyncpk.com) — AWS cloud infrastructure and cost optimization consulting.
+Maintained by [CloudSyncPK](https://cloudsyncpk.com) — AWS cloud infrastructure and cost optimization consulting.
